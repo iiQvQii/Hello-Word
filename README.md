@@ -13,5 +13,3 @@
 ### 遊戲中
 ![image](https://github.com/wdaweb/jq_cards-iiQvQii/blob/master/img/preview-3.png)
 
-# 泰山職訓前端班翻牌配對小遊戲作業
-
